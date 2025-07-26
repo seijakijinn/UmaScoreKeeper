@@ -13,6 +13,8 @@ Click a portrait and then enter their score and click the enter button to enter 
 
 The program will automatically track their average score and the highest averages of your team
 
+to start, just run main.exe inside main/dist
+
 **NOTE** THIS PROGRAM WILL (PROBABLY) ONLY WORK ON WINDOWS MACHINES ON 1920x1080 DISPLAYS WHILE IN FULLSCREEN
 
 # **7/26 Update**
