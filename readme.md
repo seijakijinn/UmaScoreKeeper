@@ -1,3 +1,9 @@
+# **NOTE ON UPDATES**
+
+To update, just install the new release, and drag everything except for the scores and teaminfo folders into the previous release
+This should update the program without clearing any of your saved scores
+I will consider cleaning this up to make it simpler in a future update
+
 # **INTRODUCTION**
 
 Click a slot and then double click a name on the left to add them to the slot
