@@ -31,5 +31,6 @@ character_list = [
     ("King Halo", "king_halo_base"),
     ("TM Opera O" , "tm_opera_o_base"),
     ("El Condor Pasa" , "el_condor_pasa_base"),
-    ("Matikanefukukitaru" , "matikanefukukitaru_base")
+    ("Matikanefukukitaru" , "matikanefukukitaru_base"),
+    ("Curren Chan" , "curren_chan_base")
     ]
